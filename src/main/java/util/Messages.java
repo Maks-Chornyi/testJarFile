@@ -7,4 +7,8 @@ public final class Messages {
                 "Now we will choose three heroes for your teem. One of them will be leader.\n" +
                 "So, Let's create your own team");
     }
+
+    public static void messageForTest() {
+        System.out.println("This is just message to an end the program");
+    }
 }

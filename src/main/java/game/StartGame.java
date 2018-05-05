@@ -6,5 +6,6 @@ public class StartGame {
 
     public void startGame() {
         Messages.greetingMessage();
+        Messages.messageForTest();
     }
 }
